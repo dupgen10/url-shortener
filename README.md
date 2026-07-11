@@ -6,14 +6,14 @@
 
 A production-grade URL shortener with a RESTful API, real-time click analytics, and a stunning dark-mode dashboard.
 
-[![CI](https://github.com/yourusername/url-shortener/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/url-shortener/actions/workflows/ci.yml)
+[![CI](https://github.com/dupgen10/url-shortener/actions/workflows/ci.yml/badge.svg)](https://github.com/dupgen10/url-shortener/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-8b5cf6.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-8.x-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 
-[Live Demo](#-live-demo) · [API Docs](#-api-documentation) · [Getting Started](#-getting-started) · [Architecture](#-architecture)
+🌐 **[Live Demo → snip-url.vercel.app](https://snip-url.vercel.app)** · [API Docs](#-api-documentation) · [Getting Started](#-getting-started) · [Architecture](#-architecture)
 
 </div>
 
