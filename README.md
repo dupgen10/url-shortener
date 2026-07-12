@@ -121,7 +121,7 @@ sequenceDiagram
 
 ## 📡 API Documentation
 
-Base URL: `https://your-api.onrender.com`
+Base URL: `https://url-shortener-9a0j.onrender.com`
 
 ### Endpoints
 
@@ -218,7 +218,7 @@ GET /:shortCode
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/dupgen10/url-shortener.git
 cd url-shortener
 ```
 
